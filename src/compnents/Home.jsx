@@ -1,10 +1,10 @@
 import React from 'react'
+import Common from './Common'
+import home from '../../src/images/home.svg'
 
 export const Home = () => {
     return (
-        <div className="container">
-            Home
-        </div>
+        <Common name="Grow your business with" imgsrc={home} visit='/service' btname="Get Started"/>
     )
 }
 
