@@ -8,6 +8,7 @@ import About from './compnents/About'
 import Service from './compnents/Service'
 import Contact from './compnents/Contact'
 import Nav from  './compnents/nav/Nav'
+import Footer from './compnents/Footer'
 
 import './App.css';
 
@@ -24,6 +25,7 @@ function App() {
             <Redirect to="/" />
           </Switch>
       </Router>
+      <Footer />
     </>
   );
 }
