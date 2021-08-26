@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <>
       <footer className="w-100 text-center bg-light py-3">
-        <p>&copy; 2021 Thapatechnical. All rights Resrved | Terms and Condition</p>
+        <p>&copy; 2021 khertechnical. All rights Resrved | Terms and Condition</p>
       </footer>
     </>
   );
