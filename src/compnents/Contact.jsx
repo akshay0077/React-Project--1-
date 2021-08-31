@@ -87,7 +87,7 @@ const Contact = () => {
               </div>
               <div className="col-12">
                 <button className="btn btn-outline-primary" type="submit">
-                  Submit form
+                  Submit
                 </button>
               </div>
             </form>
